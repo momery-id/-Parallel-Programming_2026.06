@@ -1,0 +1,89 @@
+Testing MD5Hash correctness...
+MD5Hash test passed!
+Training...
+Training phase 1: reading and parsing passwords...
+Training phase 2: Ordering segment values and PTs...
+total pts18921
+Ordering letters
+Ordering digits
+ordering symbols
+here
+Guesses generated (global approx): 170266
+Guesses generated (global approx): 314840
+Guesses generated (global approx): 458596
+Guesses generated (global approx): 658412
+Guesses generated (global approx): 795566
+Guesses generated (global approx): 925052
+Guesses generated (global approx): 1048556
+Guesses generated (global approx): 1152744
+Guesses generated (global approx): 1261968
+Guesses generated (global approx): 1363480
+Guesses generated (global approx): 1556682
+Guesses generated (global approx): 1663454
+Guesses generated (global approx): 1764422
+Guesses generated (global approx): 1866348
+Guesses generated (global approx): 1978964
+Guesses generated (global approx): 2088752
+Guesses generated (global approx): 2208212
+Guesses generated (global approx): 2308228
+Guesses generated (global approx): 2479594
+Guesses generated (global approx): 2579610
+Guesses generated (global approx): 2689398
+Guesses generated (global approx): 2789514
+Guesses generated (global approx): 2934120
+Guesses generated (global approx): 3049920
+Guesses generated (global approx): 3223528
+Guesses generated (global approx): 3333216
+Guesses generated (global approx): 3533112
+Guesses generated (global approx): 3642800
+Guesses generated (global approx): 3742816
+Guesses generated (global approx): 3916738
+Guesses generated (global approx): 4016754
+Guesses generated (global approx): 4196792
+Guesses generated (global approx): 4350390
+Guesses generated (global approx): 4519914
+Guesses generated (global approx): 4622850
+Guesses generated (global approx): 4741338
+Guesses generated (global approx): 4864694
+Guesses generated (global approx): 4977892
+Guesses generated (global approx): 5122588
+Guesses generated (global approx): 5288102
+Guesses generated (global approx): 5418298
+Guesses generated (global approx): 5519346
+Guesses generated (global approx): 5705000
+Guesses generated (global approx): 5811282
+Guesses generated (global approx): 5941318
+Guesses generated (global approx): 6085074
+Guesses generated (global approx): 6236350
+Guesses generated (global approx): 6381216
+Guesses generated (global approx): 6526004
+Guesses generated (global approx): 6643854
+Guesses generated (global approx): 6746584
+Guesses generated (global approx): 6890340
+Guesses generated (global approx): 7022268
+Guesses generated (global approx): 7154196
+Guesses generated (global approx): 7263884
+Guesses generated (global approx): 7456532
+Guesses generated (global approx): 7566252
+Guesses generated (global approx): 7695612
+Guesses generated (global approx): 7895444
+Guesses generated (global approx): 7995456
+Guesses generated (global approx): 8139212
+Guesses generated (global approx): 8260762
+Guesses generated (global approx): 8362768
+Guesses generated (global approx): 8562600
+Guesses generated (global approx): 8706356
+Guesses generated (global approx): 8886762
+Guesses generated (global approx): 9034528
+Guesses generated (global approx): 9227052
+Guesses generated (global approx): 9327068
+Guesses generated (global approx): 9470856
+Guesses generated (global approx): 9615430
+Guesses generated (global approx): 9785696
+Guesses generated (global approx): 9939224
+Guesses generated (global approx): 10192070
+Guess time:0.394516seconds
+Hash time:1.58372seconds
+Train time:24.2656seconds
+
+Authorized users only. All activities may be monitored and reported.

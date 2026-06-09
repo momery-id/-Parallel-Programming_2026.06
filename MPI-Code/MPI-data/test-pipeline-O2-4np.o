@@ -1,0 +1,84 @@
+Testing MD5Hash correctness...
+MD5Hash test passed!
+Training...
+Training phase 1: reading and parsing passwords...
+Training phase 2: Ordering segment values and PTs...
+total pts18921
+Ordering letters
+Ordering digits
+ordering symbols
+here
+Guesses generated: 170266
+Guesses generated: 314840
+Guesses generated: 458595
+Guesses generated: 729127
+Guesses generated: 860441
+Guesses generated: 974534
+Guesses generated: 1162611
+Guesses generated: 1263001
+Guesses generated: 1363473
+Guesses generated: 1556674
+Guesses generated: 1764411
+Guesses generated: 1866336
+Guesses generated: 1978951
+Guesses generated: 2088738
+Guesses generated: 2208197
+Guesses generated: 2308212
+Guesses generated: 2479578
+Guesses generated: 2579593
+Guesses generated: 2689380
+Guesses generated: 2789495
+Guesses generated: 2934101
+Guesses generated: 3049901
+Guesses generated: 3223508
+Guesses generated: 3433142
+Guesses generated: 3542861
+Guesses generated: 3642876
+Guesses generated: 3752563
+Guesses generated: 3916713
+Guesses generated: 4016728
+Guesses generated: 4196766
+Guesses generated: 4350363
+Guesses generated: 4520886
+Guesses generated: 4622821
+Guesses generated: 4741309
+Guesses generated: 4864664
+Guesses generated: 5056786
+Guesses generated: 5188156
+Guesses generated: 5352569
+Guesses generated: 5519314
+Guesses generated: 5704967
+Guesses generated: 5811249
+Guesses generated: 5941285
+Guesses generated: 6085040
+Guesses generated: 6236315
+Guesses generated: 6381180
+Guesses generated: 6525967
+Guesses generated: 6736775
+Guesses generated: 6890302
+Guesses generated: 7022229
+Guesses generated: 7154156
+Guesses generated: 7263843
+Guesses generated: 7456490
+Guesses generated: 7566209
+Guesses generated: 7695568
+Guesses generated: 7895398
+Guesses generated: 7995409
+Guesses generated: 8139164
+Guesses generated: 8260713
+Guesses generated: 8362718
+Guesses generated: 8562548
+Guesses generated: 8706303
+Guesses generated: 8886708
+Guesses generated: 9034473
+Guesses generated: 9226997
+Guesses generated: 9470799
+Guesses generated: 9615373
+Guesses generated: 9785639
+Guesses generated: 9939166
+Guesses generated: 10192012
+Guess time:1.10153seconds
+Hash time:1.07316seconds
+Train time:17.9572seconds
+
+Authorized users only. All activities may be monitored and reported.
